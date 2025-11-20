@@ -24,9 +24,9 @@ This repository contains a full-stack web application project structured for dep
     ```
 3. Access the application:
     -Frontend:
-    Open your web browser and navigate to `http://localhost:3000`.
+    Open your web browser and navigate to `http://your-ip:3000`.
     -Backend:
-    The backend server will be accessible at `http://localhost:4000`.
+    The backend server will be accessible at `http://your-ip:4000`.
 
 ## Stopping the Application
 To stop the application, run:
